@@ -32,6 +32,23 @@ Objetivos
   * Enseño el tema de normalidad de datos
   * Se instalo el paquete Shaphiro
   * Se uso la funcion shaphiro test**
+  * ## Seccion 5.- 06/09/2023 📆
+  * Se incresaron los datos de vivero de un repositorio en donde se aprendio usar
+  * Tapply
+  * Enseño el tema de normalidad de datos
+  * Se instalo el paquete Shaphiro
+  * Se uso la funcion shaphiro test
+  ## Seccion 6.- 20/09/2023 📆
+  * Se aplico la prueba de t para muestras independientes
+  * Se aplico la prueba de t de una muestra
+  * Subconjunto con los datos de ctrl y fert
+  ## Seccion 7-. 20/09/2023 📆
+  * Prueba de t dependientes
+  * Se realizo una comparacion de las variabls de datos ** Datos de airquality de la cioudad de new your ** en los peridos de verano
+  * Junio y Septiembre
+  * Se crearon subconjunto aolo con los meses de juni y septiembre
+  ## Seccion 8.- 27/09/2023 📆
+  * Coreelacion
 
 
 

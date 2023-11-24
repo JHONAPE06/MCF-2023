@@ -13,6 +13,25 @@ Objetivos
 * sincronizar
 *instalar wikter
 *instalar libreria para R
+**## Seccion 3.- 22/08/2023 📆
+* Crear datos de de un archivo de excel a la consola de R
+   * Funcion **read-rcv**
+   * Aprendio a sacar funciones
+   * Media
+   * Mediana
+   * Desviacion estandar
+   * Varianza
+   * Rango de valores
+   * Tukey
+  ## Seccion 4.- 29/08/2023 📆
+  * Se instalo el paquete de boxplot para sacra las graficas
+    * Escribir texto en los margenes **mtext**
+  ## Seccion 5.- 06/09/2023 📆
+  * Se incresaron los datos de vivero de un repositorio en donde se aprendio usar
+  * Tapply
+  * Enseño el tema de normalidad de datos
+  * Se instalo el paquete Shaphiro
+  * Se uso la funcion shaphiro test**
 
 
 

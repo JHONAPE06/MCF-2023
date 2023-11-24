@@ -26,6 +26,7 @@ Objetivos
   ## Seccion 4.- 29/08/2023 📆
   * Se instalo el paquete de boxplot para sacra las graficas
     * Escribir texto en los margenes **mtext**
+    * ![image](https://github.com/JHONAPE06/MCF-2023/assets/142333670/03068570-1621-4bff-9a9d-9ab31006d4cf)
   ## Seccion 5.- 06/09/2023 📆
   * Se incresaron los datos de vivero de un repositorio en donde se aprendio usar
   * Tapply
@@ -42,6 +43,7 @@ Objetivos
   * Se aplico la prueba de t para muestras independientes
   * Se aplico la prueba de t de una muestra
   * Subconjunto con los datos de ctrl y fert
+  * ![image](https://github.com/JHONAPE06/MCF-2023/assets/142333670/6b4031dd-58f2-4d58-975e-62b4840f6c67)
   ## Seccion 7-. 20/09/2023 📆
   * Prueba de t dependientes
   * Se realizo una comparacion de las variabls de datos ** Datos de airquality de la cioudad de new your ** en los peridos de verano

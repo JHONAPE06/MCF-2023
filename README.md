@@ -60,9 +60,12 @@ Objetivos
   * Varianza
   * Funcion de correlacion cor test
   * Conopy
+  ![image](https://github.com/JHONAPE06/MCF-2023/assets/142333670/441a9383-48d7-4ee4-814f-d687efeaa51a)
   * Identificacion de tedencias de conopy
+  ![image](https://github.com/JHONAPE06/MCF-2023/assets/142333670/ec35a63b-3e5b-4520-907f-d4af7135f65f)
 ## Seccion 9.- 04/10/2023 📆
 * Regresion lineal
+![image](https://github.com/JHONAPE06/MCF-2023/assets/142333670/b5f1c3bc-90e5-48eb-af69-3519c1c24fe1)
 * Media
 * Cor test
 * Plot
@@ -78,6 +81,7 @@ Objetivos
 * Summary
 * Se apredio a usar la prueba de TukeyHSD
 * Plot
+![image](https://github.com/JHONAPE06/MCF-2023/assets/142333670/40f70785-2abc-44c6-8c68-1631ee096dff)
 ![image](https://github.com/JHONAPE06/MCF-2023/assets/142333670/9edfc88a-bb79-4cbb-9270-ef34ca49d6f8)
 
 

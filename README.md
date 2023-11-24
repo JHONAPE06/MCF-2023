@@ -70,7 +70,12 @@ Objetivos
 * Datos de diamtro en Chihuahua
 * Se sacaron las funciones y pruebas
 * Boxplot
-
+* Shaphiro test
+* Bartlett test
+* Loc aov
+* Summary
+* Se apredio a usar la prueba de TukeyHSD
+* Plot
 
 
 
